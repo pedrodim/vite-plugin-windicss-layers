@@ -1,0 +1,9 @@
+@layer components {
+  .custom-1 {
+    @apply text-red-500;
+  }
+
+  .custom-2 {
+    @apply text-green-500;
+  }
+}
